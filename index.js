@@ -57,7 +57,7 @@ var listaFilmes = [
 
    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBBZpyiVy9k8VaLva2hKhlGE3a67VFQx6eJZz8Lh4wDnFAm0lfXBbSdWI5tD8F6XpM2lqmgS69JWI097h4OEe1VrBCULiC9DEWavZKdZpypIWQM-_2rsfUdQPP4LkcMqTuHGywss3MBu2KEAZgDp7wrPI2x4aHbCHlvAG0t8rtytHc4XBxb68ih5zbLw/s800/oenctrdcrl01.jpg",
 
-   "https://br.web.img2.acsta.net/medias/nmedia/18/97/04/22/20504502.jpg",
+   "https://static.wikia.nocookie.net/dublagem/images/e/ec/Capit%C3%A3o_Am%C3%A9rica_-_O_Primeiro_Vingador.png/revision/latest?cb=20220604201833&path-prefix=pt-br",
 
    "https://cinema10.com.br/upload/filmes/filmes_11149_velozes-e-furiosos-10-poster-nacional.jpg?default=poster",
 
