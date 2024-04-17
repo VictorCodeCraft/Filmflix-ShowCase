@@ -19,8 +19,6 @@ var listaFilmes = [
 
    "https://br.web.img3.acsta.net/pictures/19/10/18/16/49/5592014.jpg",
 
-   "https://br.web.img3.acsta.net/pictures/19/06/05/22/36/1484338.jpg",
-
    "https://br.web.img2.acsta.net/pictures/23/01/10/16/05/4289829.jpg",
 
    "https://cinema10.com.br/upload/filmes/filmes_11149_velozes-e-furiosos-10-poster-nacional.jpg?default=poster",
