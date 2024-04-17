@@ -50,12 +50,16 @@ var listaFilmes = [
    "https://upload.wikimedia.org/wikipedia/pt/thumb/4/40/Movie_poster_toy_story_2.jpg/250px-Movie_poster_toy_story_2.jpg",
 
    "https://media.fstatic.com/jNZXpFXkeOyRUmFGzHBZC__vIy0=/322x478/smart/filters:format(webp)/media/movies/covers/2023/08/cats_IvsmbSx.jpg",
+
+   "https://play-lh.googleusercontent.com/W8DR-RL0aRUJjFlvViEkk9pmzaa-iZFlQpmPO1Hm0-10Q0mzLHspjoBH64PD3l0eGwbo",
  
    "https://upload.wikimedia.org/wikipedia/pt/1/1a/O_Jogo_da_Imita%C3%A7%C3%A3o.jpg",
 
    "https://br.web.img3.acsta.net/medias/nmedia/18/87/30/40/20028676.jpg",
 
    "https://upload.wikimedia.org/wikipedia/pt/e/e5/Frozen_2013.png",
+
+   "https://play-lh.googleusercontent.com/omRtvzKeZrzBPdwJbaUEYgEjolk3goZlvfrzmopISK25J_AAXn2a47tCU4HVWdyM7hUBLA",
   
    'https://upload.wikimedia.org/wikipedia/en/9/9a/The_Raid_2011_poster.jpg'
 ];
