@@ -23,17 +23,15 @@ var listaFilmes = [
 
    "https://br.web.img2.acsta.net/pictures/23/01/10/16/05/4289829.jpg",
 
-   "https://static.wikia.nocookie.net/dublagem/images/5/57/Viagem_2-_A_Ilha_Misteriosa.png/revision/latest?cb=20230605200303&path-prefix=pt-br",
+   "https://i.pinimg.com/originals/18/7d/7c/187d7c94e0ce8c191c8166c024425937.jpg",
 
    "https://br.web.img2.acsta.net/medias/nmedia/18/90/80/64/20363523.jpg",
 
-   "https://static.wikia.nocookie.net/filmes/images/1/1f/Godzilla-new-poster.jpg/revision/latest?cb=20140527170305",
+   "https://static.wikia.nocookie.net/filmes/images/1/1f/Godzilla-new-poster.jpg",
 
    "https://play-lh.googleusercontent.com/xn9qXXG1GEJpEEsHtRHkhF1fgdhWIkiNKVZSUlJV6YiXVbxm0NRJZ0aAjxLxqsWVxqoh",
    
    "https://br.web.img2.acsta.net/c_310_420/pictures/21/08/05/10/09/3049342.jpg",
-
-   "https://static.wikia.nocookie.net/dublagem/images/5/5c/Enrolados.jpeg/revision/latest/thumbnail/width/360/height/360?cb=20230719135756&path-prefix=pt-br",
 
    "https://play-lh.googleusercontent.com/pSgwFrp-tMMwk_iSO188jvg2VILhq1l3EICZKThh72bi8J8ozzD4JjMcd4fVVHMcoimq",
 
