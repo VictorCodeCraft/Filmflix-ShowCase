@@ -1,0 +1,80 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://caelum-online-public.s3.amazonaws.com/assets-imersaodev/background-aluraflix.png");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 15px;
+}
+
+.page-title {
+  font-family: "Roboto ", sans-serif;
+  color: #ffffff;
+   background: linear-gradient(to right, #4E7AC7, #2A4D84);
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent; 
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); 
+  margin: 0 0 5px;
+  
+}
+
+.name-title {
+  font-family: "Roboto ", sans-serif;
+  font-size: 100%;
+  color: #ffffff;
+  text-transform: uppercase; 
+  letter-spacing: 2px;
+ text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+ position: relative;
+  margin-top: 2px;
+}
+
+
+.page-subtitle {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.2em;
+  color: #ffffff; 
+  margin-top: 5px; 
+}
+
+
+.page-logo {
+   width: 250px;
+  border: 0;
+  border-radius: 20px;
+  padding: 2px;
+  background-color: transparent;
+}
+
+.alura-logo {
+  all: unset;
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.image-container {
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: center; 
+  align-items: center; 
+  margin-top: px;
+}
+
+img {
+  max-height: 250px;
+  padding: 10px 5px;
+  border: 0;
+  border-radius: 20px;
+  margin: 5px; 
+  background-color: #0d0429;
+}
+
+
