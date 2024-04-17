@@ -1,7 +1,7 @@
 var listaFilmes = [
    'https://m.media-amazon.com/images/I/51MXJq8bsnL.jpg',
 
-   'https://upload.wikimedia.org/wikipedia/pt/thumb/2/2b/Spider-Man_No_Way_Home_-_The_More_Fun_Stuff_Version_poster.jpg/220px-Spider-Man_No_Way_Home_-_The_More_Fun_Stuff_Version_poster.jpg',
+   'https://conteudo.imguol.com.br/c/entretenimento/65/2021/12/14/cartaz-de-homem-aranha-sem-volta-para-casa-1639517284758_v2_3x4.jpg',
 
    'https://m.media-amazon.com/images/M/MV5BNzg5ZGFjYTMtYmU3My00NTE0LThiNTctMmJjZWY5NGQ2N2U5XkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg',
 
@@ -9,13 +9,31 @@ var listaFilmes = [
 
    'https://cinemacomrapadura.com.br/imagens/2018/07/20180704-mission-impossible-fallout-poster-410x615.jpg',
 
+   "https://br.web.img3.acsta.net/pictures/17/03/03/19/15/268212.jpg",
+
+   "https://upload.wikimedia.org/wikipedia/pt/b/b7/Fireproof_poster.jpg",
+
+   "https://upload.wikimedia.org/wikipedia/pt/4/48/Kong-Skull_Island.jpg",
+
    "https://media.fstatic.com/brIK6EcMAmArVQOtPk0Um62c0Is=/210x312/smart/filters:format(webp)/media/movies/covers/2011/06/9470ad45102b2ba2fa90af73e8c9748c_1.jpg",
 
    "https://br.web.img3.acsta.net/pictures/19/10/18/16/49/5592014.jpg",
 
+   "https://br.web.img3.acsta.net/pictures/19/06/05/22/36/1484338.jpg",
+
+   "https://br.web.img2.acsta.net/pictures/23/01/10/16/05/4289829.jpg",
+
+   "https://static.wikia.nocookie.net/dublagem/images/5/57/Viagem_2-_A_Ilha_Misteriosa.png/revision/latest?cb=20230605200303&path-prefix=pt-br",
+
+   "https://br.web.img2.acsta.net/medias/nmedia/18/90/80/64/20363523.jpg",
+
+   "https://static.wikia.nocookie.net/filmes/images/1/1f/Godzilla-new-poster.jpg/revision/latest?cb=20140527170305",
+
    "https://play-lh.googleusercontent.com/xn9qXXG1GEJpEEsHtRHkhF1fgdhWIkiNKVZSUlJV6YiXVbxm0NRJZ0aAjxLxqsWVxqoh",
    
    "https://br.web.img2.acsta.net/c_310_420/pictures/21/08/05/10/09/3049342.jpg",
+
+   "https://static.wikia.nocookie.net/dublagem/images/5/5c/Enrolados.jpeg/revision/latest/thumbnail/width/360/height/360?cb=20230719135756&path-prefix=pt-br",
 
    "https://play-lh.googleusercontent.com/pSgwFrp-tMMwk_iSO188jvg2VILhq1l3EICZKThh72bi8J8ozzD4JjMcd4fVVHMcoimq",
 
