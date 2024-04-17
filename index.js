@@ -55,8 +55,6 @@ var listaFilmes = [
 
    "https://br.web.img3.acsta.net/medias/nmedia/18/87/30/40/20028676.jpg",
 
-   "https://static.wikia.nocookie.net/dublagem/images/e/ec/Capit%C3%A3o_Am%C3%A9rica_-_O_Primeiro_Vingador.png/revision/latest?cb=20220604201833&path-prefix=pt-br",
-
    "https://upload.wikimedia.org/wikipedia/pt/e/e5/Frozen_2013.png",
   
    'https://upload.wikimedia.org/wikipedia/en/9/9a/The_Raid_2011_poster.jpg'
