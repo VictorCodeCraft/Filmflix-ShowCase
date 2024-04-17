@@ -23,6 +23,8 @@ var listaFilmes = [
 
    "https://br.web.img2.acsta.net/pictures/23/01/10/16/05/4289829.jpg",
 
+   "https://cinema10.com.br/upload/filmes/filmes_11149_velozes-e-furiosos-10-poster-nacional.jpg?default=poster",
+
    "https://i.pinimg.com/originals/18/7d/7c/187d7c94e0ce8c191c8166c024425937.jpg",
 
    "https://br.web.img2.acsta.net/medias/nmedia/18/90/80/64/20363523.jpg",
