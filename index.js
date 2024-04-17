@@ -61,6 +61,8 @@ var listaFilmes = [
 
    "https://br.web.img2.acsta.net/medias/nmedia/18/97/04/22/20504502.jpg",
 
+   "https://cinema10.com.br/upload/filmes/filmes_11149_velozes-e-furiosos-10-poster-nacional.jpg?default=poster",
+
    "https://upload.wikimedia.org/wikipedia/pt/e/e5/Frozen_2013.png",
   
    'https://upload.wikimedia.org/wikipedia/en/9/9a/The_Raid_2011_poster.jpg'
