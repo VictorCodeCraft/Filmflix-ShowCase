@@ -16,12 +16,11 @@ body {
 .page-title {
   font-family: "Roboto ", sans-serif;
   color: #ffffff;
-   background: linear-gradient(to right, #4E7AC7, #2A4D84);
+  background: linear-gradient(to right, #4E7AC7, #2A4D84);
   -webkit-background-clip: text; 
   -webkit-text-fill-color: transparent; 
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); 
   margin: 0 0 5px;
-  
 }
 
 .name-title {
@@ -30,8 +29,8 @@ body {
   color: #ffffff;
   text-transform: uppercase; 
   letter-spacing: 2px;
- text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
- position: relative;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  position: relative;
   margin-top: 2px;
 }
 
@@ -45,7 +44,7 @@ body {
 
 
 .page-logo {
-   width: 250px;
+  width: 250px;
   border: 0;
   border-radius: 20px;
   padding: 2px;
