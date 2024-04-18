@@ -1,8 +1,4 @@
 <p align="center">
-  <img alt="Logo NLW Expert - Rocketseat" src=".github/logo.png" width="200px" />
-</p>
-
-<p align="center">
 Aplicação desenvolvida na Imersão Front-end da Alura.
 </p>
 
