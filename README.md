@@ -1,4 +1,9 @@
 <p align="center">
+  <img alt="Capa do Projeto." src=".github/logo.png" width="75%">
+</p>
+
+
+<p align="center">
 Aplicação desenvolvida na Imersão Dev da Alura.
 </p>
 
@@ -11,7 +16,7 @@ Aplicação desenvolvida na Imersão Dev da Alura.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
+  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="75%">
 </p>
 
 ## 🌐 Projeto
