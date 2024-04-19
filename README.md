@@ -10,7 +10,8 @@ Aplicação desenvolvida na Imersão Dev da Alura.
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Explicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Autor</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -46,3 +47,11 @@ Aplicação desenvolvida na Imersão Dev da Alura.
   - Dinamização da página;
   - Carregamento dinâmico dos pôsteres de filmes na página;
   - Interação com o usuário através da criação dinâmica de elementos de imagem.
+
+<br/>
+
+## 👦🏽 Autor
+
+  Victor Guilherme Sodó Santana 
+
+  - https://www.linkedin.com/in/victor-g-15105321a/
