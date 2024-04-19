@@ -1,5 +1,5 @@
 <p align="center">
-Aplicação desenvolvida na Imersão Front-end da Alura.
+Aplicação desenvolvida na Imersão Dev da Alura.
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@ Aplicação desenvolvida na Imersão Front-end da Alura.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png.png" width="60%">
+  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
 </p>
 
 ## 🌐 Projeto
